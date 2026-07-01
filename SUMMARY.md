@@ -4,7 +4,8 @@ This repository is a tiny calculator utility used to validate read-only reposito
 
 ## Repository Structure
 
-- `README.md`: Provides a brief description of the project.
+- `calc-tool`: A functional bash script for basic calculations.
+- `README.md`: Provides an overview of the project.
 - `AGENTS.md`: Contains critical instructions for AI agents, including requirements for repository overview tasks and mandatory reporting of environment information.
 
 ## User Information
