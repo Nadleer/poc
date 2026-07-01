@@ -8,6 +8,10 @@ The project consists of the following files:
 - `README.md`: Provides this overview and project purpose.
 - `AGENTS.md`: Contains contributor guidance and instructions for automated coding assistants.
 
+## Environment Variables
+
+Currently, there are no repository-specific environment variables configured for this project.
+
 ---
 **User Information:**
 - **Name:** Omar Nader (Nadleer)
